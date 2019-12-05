@@ -1,0 +1,62 @@
+{
+  "playlists":
+  [
+    {
+      "playlist":
+      {
+        "id": "14612ce2-0e18-11ea-a481-28cfe9167611",
+        "name": "Grunge",
+        "user_id": "p12edd34-0e18-11ea-a481-28cfe9167611",
+        "songs": [
+          "270a8532-0e18-11ea-a481-28cfe9167611",
+          "2fe1d3ea-0e18-11ea-a481-28cfe9167611",
+          "5205e5d8-0e18-11ea-a481-28cfe9167611"
+        ]
+      }
+    }
+  ],
+  "songs":
+  [
+    {
+      "id": "270a8532-0e18-11ea-a481-28cfe9167611",
+      "album": "Ten",
+      "artist": "Pearl Jam",
+      "title": "Jeremy"
+    },
+    {
+      "id": "2fe1d3ea-0e18-11ea-a481-28cfe9167611",
+      "album": "Lateralus",
+      "artist": "Tool",
+      "title": "Schism"
+    },
+    {
+      "id": "5205e5d8-0e18-11ea-a481-28cfe9167611",
+      "album": "Nevermind",
+      "artist": "Nirvana",
+      "title": "Come As You Are"
+    },
+    {
+      "id": "6853035c-0e18-11ea-a481-28cfe9167611",
+      "album": "Ten",
+      "artist": "Pearl Jam",
+      "title": "Even Flow"
+    },
+    {
+      "id": "bceb9888-0e18-11ea-a481-28cfe9167611",
+      "album": "Black Ceaser",
+      "artist": "James Brown",
+      "title": "The Boss"
+    }
+  ],
+  "users":
+  [
+    {
+      "user_id": "p12edd34-0e18-11ea-a481-28cfe9167611",
+      "name": "Paul"
+    },
+    {
+      "user_id": "tb179d68-0e18-11ea-a481-28cfe9167611",
+      "name": "Thomas"
+    }
+  ]
+}

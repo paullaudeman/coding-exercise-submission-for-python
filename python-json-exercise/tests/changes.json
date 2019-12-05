@@ -1,0 +1,33 @@
+{
+  "additions":
+  {
+    "existing_playlists_to_update":
+    [
+      {
+        "id": "14612ce2-0e18-11ea-a481-28cfe9167611",
+        "songs":
+        [
+          "6853035c-0e18-11ea-a481-28cfe9167611"
+        ]
+      }
+    ],
+    "new_playlists":
+    [
+      {
+        "name": "Jazz",
+        "user_id": "p12edd34-0e18-11ea-a481-28cfe9167611",
+        "songs":
+        [
+          "bceb9888-0e18-11ea-a481-28cfe9167611"
+        ]
+      }
+    ]
+  },
+  "deletions":
+  {
+    "playlists":
+    [
+      "14612ce2-0e18-11ea-a481-28cfe9167611"
+    ]
+  }
+}
